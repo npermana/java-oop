@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8081cb55-e6be-4f43-bc8d-08fba1450f5b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritanceApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ManagerApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ParentApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PersonApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PolymorphismApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ShapeApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TypeCheckAndCastApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VicePresident.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nazar/oop/annotation/Fancy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nazar/oop/annotation/NotBlank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nazar/oop/application/AnimalApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nazar/oop/application/AnnotationApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nazar/oop/application/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nazar/oop/application/CarApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nazar/oop/application/CategoryApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nazar/oop/application/CompanyApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nazar/oop/application/DatabaseApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nazar/oop/application/EnumApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nazar/oop/application/EqualsApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nazar/oop/application/GreetingsApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nazar/oop/application/LocationApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nazar/oop/application/ReadApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nazar/oop/application/RecordApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nazar/oop/application/ReflectionApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nazar/oop/application/StackTraceApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nazar/oop/application/StaticApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nazar/oop/application/ToStringApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nazar/oop/application/ValidationApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nazar/oop/data/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nazar/oop/data/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nazar/oop/data/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nazar/oop/data/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nazar/oop/data/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nazar/oop/data/City.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nazar/oop/data/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nazar/oop/data/Constant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nazar/oop/data/Country.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nazar/oop/data/CreateUserRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nazar/oop/data/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nazar/oop/data/Greetings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nazar/oop/data/HasBrand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nazar/oop/data/Jazz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nazar/oop/data/Level.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nazar/oop/data/Location.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nazar/oop/data/LoginRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nazar/oop/data/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nazar/oop/data/ProductApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nazar/oop/data/SocialMedia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nazar/oop/error/BlankException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nazar/oop/error/DatabaseError.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nazar/oop/error/ValidationException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nazar/oop/util/MathUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nazar/oop/util/ValidationUtil.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Record" />
+        <option value="Enum" />
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2O8FUDG2iu5CiukEaUbOvHkKDCV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.ReflectionApp">
+    <configuration name="AnimalApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nazar.oop.application.AnimalApp" />
+      <module name="java-oop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nazar.oop.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DatabaseApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nazar.oop.application.DatabaseApp" />
+      <module name="java-oop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nazar.oop.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReadApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nazar.oop.application.ReadApp" />
+      <module name="java-oop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nazar.oop.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReflectionApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nazar.oop.application.ReflectionApp" />
+      <module name="java-oop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nazar.oop.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StackTraceApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nazar.oop.application.StackTraceApp" />
+      <module name="java-oop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nazar.oop.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ReflectionApp" />
+        <item itemvalue="Application.AnimalApp" />
+        <item itemvalue="Application.ReadApp" />
+        <item itemvalue="Application.StackTraceApp" />
+        <item itemvalue="Application.DatabaseApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8081cb55-e6be-4f43-bc8d-08fba1450f5b" name="Changes" comment="" />
+      <created>1680934315702</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680934315702</updated>
+    </task>
+    <servers />
+  </component>
+</project>

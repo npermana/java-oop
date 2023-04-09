@@ -1,0 +1,5 @@
+#ignore directory
+out/
+
+#ignore macOS files
+.DS_Store
